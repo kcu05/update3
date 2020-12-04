@@ -139,7 +139,7 @@ iframe {
 .grid {
   text-align: center;
   margin: 20px 150px;
-  float: left;
+  float: right;
 }
 .grid2 {
   padding: 0 10px;
@@ -297,7 +297,7 @@ button {
 }
 
 .clearfix {
-	clear: left;
+	clear: right;
 	width: 100%;
 	border: dotted 1px white;
 }
