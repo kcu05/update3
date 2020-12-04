@@ -295,3 +295,8 @@ button {
   border-right: solid #dddddd 10px;
   border-bottom : solid #cccccc 10px;
 }
+.end-box {
+	text-align: center;
+	border: dotted 1px white;
+	font-size: 10px;
+}
